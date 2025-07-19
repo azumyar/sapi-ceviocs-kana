@@ -1,6 +1,7 @@
 # sapi-ceviocs-kana
 棒読みちゃん(SAPI5)とCeVIO CSの連携  
 棒読みちゃんで話者をパラメータを変えて複数登録して遊ぶ目的のSAPIプラグインです。レジストリ一括登録バッチなどを作成してご利用ください。  
+概ね辞書にない英字をカナ変換してくれないのがいやで作りました。
 https://github.com/azumyar/sapi-ceviocs-kana/releases
 
 インストールはリリースzip内に配置されているbatを管理権限で実行することで簡単に行えます。
